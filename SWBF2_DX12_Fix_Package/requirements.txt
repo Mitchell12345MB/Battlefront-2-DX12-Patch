@@ -1,6 +1,0 @@
-# Star Wars Battlefront II - DX12 Fix Requirements
-# Install with: pip install -r requirements.txt
-
-psutil>=5.7.0
-# Process monitoring and system information library
-# Used for detecting game processes and applying runtime optimizations 
