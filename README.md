@@ -237,16 +237,6 @@ This fix modifies game settings and system registry. While thoroughly tested, us
 
 **NOT AFFILIATED** with EA, DICE, or Lucasfilm. This is an independent community fix.
 
-## 🎉 Success Stories
-
-> *"Finally! No more shader optimization hanging. Game launches in seconds now!"* - Steam User
-
-> *"The UI artifacts are completely gone. I can use 120% resolution scale without any problems."* - Reddit User  
-
-> *"Performance improved dramatically. Getting 80+ FPS consistently now."* - Origin User
-
----
-
 ## 📞 Support
 
 - **GitHub Issues**: [Report problems here]
