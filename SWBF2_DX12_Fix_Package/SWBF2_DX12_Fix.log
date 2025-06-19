@@ -1,0 +1,40 @@
+2025-06-18 21:04:07,482 - INFO - Found game in parent directory: E:\SteamLibrary\steamapps\common\STAR WARS Battlefront II
+2025-06-18 21:04:07,482 - INFO - Starting SWBF2 DX12 Complete Fix...
+2025-06-18 21:04:07,483 - WARNING - Permission denied for CFG exception on starwarsbattlefrontii.exe
+2025-06-18 21:04:07,483 - WARNING - Permission denied for CFG exception on starwarsbattlefrontii_trial.exe
+2025-06-18 21:04:07,483 - INFO - Backed up: Win32Game.cfg
+2025-06-18 21:04:07,484 - INFO - Updated game settings for DX12 mode
+2025-06-18 21:04:07,484 - INFO - Created restore script: E:\SteamLibrary\steamapps\common\STAR WARS Battlefront II\Restore_SWBF2_Settings.bat
+2025-06-18 21:04:07,484 - INFO - Monitoring for SWBF2 process...
+2025-06-18 21:04:52,856 - INFO - Found game in parent directory: E:\SteamLibrary\steamapps\common\STAR WARS Battlefront II
+2025-06-18 21:04:52,857 - INFO - Starting SWBF2 DX12 Complete Fix...
+2025-06-18 21:04:52,857 - WARNING - Permission denied for CFG exception on starwarsbattlefrontii.exe
+2025-06-18 21:04:52,857 - WARNING - Permission denied for CFG exception on starwarsbattlefrontii_trial.exe
+2025-06-18 21:04:52,858 - INFO - Backed up: Win32Game.cfg
+2025-06-18 21:04:52,858 - INFO - Enabled DX12 mode
+2025-06-18 21:04:52,858 - INFO - Updated game settings for DX12 mode
+2025-06-18 21:04:52,858 - INFO - Created restore script: E:\SteamLibrary\steamapps\common\STAR WARS Battlefront II\Restore_SWBF2_Settings.bat
+2025-06-18 21:04:52,859 - INFO - Monitoring for SWBF2 process...
+2025-06-18 21:18:13,524 - INFO - Found game in parent directory: E:\SteamLibrary\steamapps\common\STAR WARS Battlefront II
+2025-06-18 21:18:13,525 - INFO - Starting SWBF2 DX12 Complete Fix...
+2025-06-18 21:18:13,525 - WARNING - Permission denied for CFG exception on starwarsbattlefrontii.exe
+2025-06-18 21:18:13,525 - WARNING - Permission denied for CFG exception on starwarsbattlefrontii_trial.exe
+2025-06-18 21:18:13,526 - INFO - Backed up: Win32Game.cfg
+2025-06-18 21:18:13,526 - INFO - Enabled DX12 mode
+2025-06-18 21:18:13,526 - INFO - Updated game settings for DX12 mode
+2025-06-18 21:18:13,526 - INFO - Created restore script: E:\SteamLibrary\steamapps\common\STAR WARS Battlefront II\Restore_SWBF2_Settings.bat
+2025-06-18 21:18:13,527 - INFO - Monitoring for SWBF2 process...
+2025-06-18 21:19:29,515 - INFO - Found game in parent directory: E:\SteamLibrary\steamapps\common\STAR WARS Battlefront II
+2025-06-18 21:19:29,515 - INFO - Starting SWBF2 DX12 Complete Fix...
+2025-06-18 21:19:29,516 - INFO - Applied CFG exception for starwarsbattlefrontii.exe
+2025-06-18 21:19:29,516 - INFO - Applied CFG exception for starwarsbattlefrontii_trial.exe
+2025-06-18 21:19:29,517 - INFO - Backed up: Win32Game.cfg
+2025-06-18 21:19:29,517 - INFO - Enabled DX12 mode
+2025-06-18 21:19:29,517 - INFO - Updated game settings for DX12 mode
+2025-06-18 21:19:29,517 - INFO - Created restore script: E:\SteamLibrary\steamapps\common\STAR WARS Battlefront II\Restore_SWBF2_Settings.bat
+2025-06-18 21:19:29,517 - INFO - Monitoring for SWBF2 process...
+2025-06-18 21:19:51,591 - INFO - Found game process: starwarsbattlefrontii.exe (PID: 30208)
+2025-06-18 21:19:51,592 - INFO - Set process priority to HIGH
+2025-06-18 21:19:51,592 - INFO - Applied memory optimizations
+2025-06-18 21:19:51,592 - INFO - Applied UI artifact prevention
+2025-06-18 21:19:51,592 - INFO - All runtime fixes applied successfully!
